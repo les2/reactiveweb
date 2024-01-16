@@ -1,17 +1,8 @@
 {
   "solution": {
     "reactiveweb": {
-      "impact": "patch",
-      "oldVersion": "1.1.0",
-      "newVersion": "1.1.1",
-      "constraints": [
-        {
-          "impact": "patch",
-          "reason": "Appears in changelog section :bug: Bug Fix"
-        }
-      ],
-      "pkgJSONPath": "./reactiveweb/package.json"
+      "oldVersion": "1.1.1"
     }
   },
-  "description": "## Release (2024-01-16)\n\nreactiveweb 1.1.1 (patch)\n\n#### :bug: Bug Fix\n* `reactiveweb`, `test-app`\n  * [#57](https://github.com/universal-ember/reactiveweb/pull/57) docs: correct import lines in code example ([@Techn1x](https://github.com/Techn1x))\n\n#### Committers: 1\n- Brad Overton ([@Techn1x](https://github.com/Techn1x))\n"
+  "description": "## Release (2024-01-16)\n\n\n\n#### :house: Internal\n* [#63](https://github.com/universal-ember/reactiveweb/pull/63) Reduce CI time ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n* [#60](https://github.com/universal-ember/reactiveweb/pull/60) Auto lintfix ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n\n#### Committers: 1\n- [@NullVoxPopuli](https://github.com/NullVoxPopuli)\n"
 }

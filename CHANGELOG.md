@@ -1,6 +1,16 @@
 # Changelog
 ## Release (2024-01-16)
 
+
+
+#### :house: Internal
+* [#63](https://github.com/universal-ember/reactiveweb/pull/63) Reduce CI time ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+* [#60](https://github.com/universal-ember/reactiveweb/pull/60) Auto lintfix ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 1
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
+## Release (2024-01-16)
+
 reactiveweb 1.1.1 (patch)
 
 #### :bug: Bug Fix
